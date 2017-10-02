@@ -1,4 +1,4 @@
-# ID3-Decision-Tree-in-Java
+# ID3-Decision-Tree-Classifier-in-Java
 
 ```
 Classes: 1 = >50K, 2 = <=50K
